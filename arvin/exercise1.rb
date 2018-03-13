@@ -5,6 +5,7 @@
 # figure out how to iterate through the content of the array
 # and print out each value
 
+=begin
 def value(array)
   array.each { |x| puts x }
 end
@@ -15,3 +16,4 @@ puts "Exercise 1"
 puts "Iterate the content of the array and print out each value"
 
 value(arr)
+=end
