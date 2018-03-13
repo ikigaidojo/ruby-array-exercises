@@ -14,6 +14,7 @@ puts arr << 120
 puts "Prepend 9 to the original array"
 puts arr.insert(0, 9)
 
+=begin
 puts "Append this number at the end of the array"
 add_num = gets.chomp
 puts arr << add_num
@@ -21,3 +22,4 @@ puts arr << add_num
 puts "Prepend this number at the beginning of the array"
 add_num1 = gets.chomp
 puts arr.insert(0,add_num1)
+=end
