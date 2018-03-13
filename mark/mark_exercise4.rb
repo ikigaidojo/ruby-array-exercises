@@ -3,3 +3,6 @@ my_array.unshift(9) #add an elment at the beginning
 my_array.push(120) #add an element at the end
 
 print my_array
+
+#
+#
