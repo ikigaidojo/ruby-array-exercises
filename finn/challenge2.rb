@@ -4,4 +4,4 @@ def array_print
 	puts numbers.select &:even?
 end
 
-array_print
+array_print 

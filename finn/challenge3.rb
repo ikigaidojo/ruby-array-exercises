@@ -4,4 +4,4 @@ def array_print
 	puts numbers.select &:odd?
 end
 
-array_print
+array_print 
