@@ -6,7 +6,7 @@
 # and print out each value that are EVEN
 
 def value(array)
-  array.each { |x| puts x if x%2 == 0 }
+  array.each { |x| puts x if x % 2 == 0 }
 end
 
 arr = [24, 78,  39, 5, 92, 18, 44, 13, 54, 7]
